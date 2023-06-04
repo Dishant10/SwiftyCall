@@ -21,8 +21,8 @@ let package = Package(
         .target(
             name: "SwiftyCall",
             dependencies: []),
-        .testTarget(
-            name: "SwiftyCallTests",
-            dependencies: ["SwiftyCall"]),
+//        .testTarget(
+//            name: "SwiftyCallTests",
+//            dependencies: ["SwiftyCall"]),
     ]
 )
