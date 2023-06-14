@@ -58,3 +58,7 @@ This app uses the same jokes api used in to demonstrate the swiftycall usage and
 ### API used
 
 https://backend-omega-seven.vercel.app/api/getjoke
+
+# License
+
+SwiftyCall is released under the MIT license. See [LICENSE](LICENSE) for details.
