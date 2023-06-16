@@ -48,6 +48,9 @@ NetworkingManager.shared.fetch("https://backend-omega-seven.vercel.app/api/getjo
             }
         }
 ```
+## After adding the package using SPM your project should look like
+
+<img width="276" alt="Screenshot 2023-06-12 at 9 46 12 AM" src="https://github.com/Dishant10/SwiftyCall-Example/assets/84343829/8ffab7a2-f9a2-454a-8afd-9330d03651e6">
 
 ### Examle App
 
